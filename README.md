@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 ## 🛠️ Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-000555?style=for-the-badge&logo=python)
 
 
 AI | ML | DL | RL | NLP | CV | Python | R | ChatGPT | Trading
