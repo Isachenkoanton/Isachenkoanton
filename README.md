@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 ## 🛠️ Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-864231?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
 
