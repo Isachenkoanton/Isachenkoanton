@@ -19,7 +19,7 @@
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-0039A6?style=for-the-badge)
 ![Sentimental Analysis](https://img.shields.io/badge/Sentimental%20Analysis-A4373A?style=for-the-badge)
 ![Feature Learning](https://img.shields.io/badge/Feature%20Learning-D83B01?style=for-the-badge)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-C72E49?style=for-the-badge)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-2596BE?style=for-the-badge)
 ![Bayesian Statistics](https://img.shields.io/badge/Bayesian%20Statistics-35BF5C?style=for-the-badge)
 ![Cluster Computing](https://img.shields.io/badge/Cluster%20Computing-C72E49?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-007A73?style=for-the-badge)
@@ -60,7 +60,7 @@
 ![MQL](https://img.shields.io/badge/MQL-732468?style=for-the-badge)
 ![Pinescript](https://img.shields.io/badge/Pinescript-C72E49?style=for-the-badge)
 ![EasyLanguage](https://img.shields.io/badge/EasyLanguage-732468?style=for-the-badge)
-![cAlgo](https://img.shields.io/badge/cAlgo-732468?style=for-the-badge)
+![cAlgo](https://img.shields.io/badge/cAlgo-6D28D9?style=for-the-badge)
 ![NinjaScript](https://img.shields.io/badge/NinjaScript-00945E?style=for-the-badge)
 ![ThinkScript](https://img.shields.io/badge/ThinkScript-007A73?style=for-the-badge)
 
@@ -76,7 +76,7 @@
 ![Colab](https://img.shields.io/badge/Colab-0039A6?style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/MLflow-00B2FF?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-486731?style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/Jenkins-486731?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-FF9955?style=for-the-badge)
 
 ## 📚 Libraries & Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-6364FF?style=for-the-badge)
