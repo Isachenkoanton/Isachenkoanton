@@ -3,6 +3,7 @@
 ## 🚀 About Me
  
 🎓 I am Anton Isachenko, a **Senior Machine Learning Engineer** as well as a **Trading Expert**. I have a Master's degree in Computer Science.
+
 📧 Gmail: isachenkoanton28@gmail.com
 
 ## 🧮 Mathematical Background
