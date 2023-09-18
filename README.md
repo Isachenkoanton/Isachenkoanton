@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 
-🎓 I an Anton Isachenko, a **Senior Machine Learning Engineer** as well as a **Trading Expert**. I have a Master's degree in Computer Science.
+🎓 I am Anton Isachenko, a **Senior Machine Learning Engineer** as well as a **Trading Expert**. I have a Master's degree in Computer Science.
 
-## 🛠️ Skills
+## 💻 Programming Language
 ![Python](https://img.shields.io/badge/Python-F8C517?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-00599C?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
