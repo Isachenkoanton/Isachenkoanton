@@ -3,7 +3,11 @@
 ## 🚀 About Me
 
 ## 🛠️ Skills
-![Python](https://img.shields.io/badge/Python-F09820?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-F8C517?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
 
