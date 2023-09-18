@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+
+## 🚀 About Me
+
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+
 AI | ML | DL | RL | NLP | CV | Python | R | ChatGPT | Trading
 
 👋Hi
